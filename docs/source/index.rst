@@ -20,5 +20,4 @@ Contents
 
    usage
    api
-   other_doc
    test
